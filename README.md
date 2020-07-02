@@ -21,14 +21,20 @@ By the end of this workshop you as Software Engineers should:
   - [Behavioral Interview](#behavioral-interview)
     - [Importance of Behavioral Interviews](#importance-of-behavioral-interviews)
     - [How to beat the Behavioral Interview](#how-to-beat-the-behavioral-interview)
+    - [Behavioral Interview Question Examples:](#behavioral-interview-question-examples)
   - [Technical Questions](#technical-questions)
+    - [Importance of Technical Questions](#importance-of-technical-questions)
     - [How to Ace the Technical Questions](#how-to-ace-the-technical-questions)
-  - [Code Challenge](#code-challenge)
-    - [How to beat the Code Challenge](#how-to-beat-the-code-challenge)
+    - [Technical Question Examples:](#technical-question-examples)
+  - [Take Home Code Challenge](#take-home-code-challenge)
+    - [How to beat the Home Code Challenge](#how-to-beat-the-home-code-challenge)
+    - [Take Home Code Challenge Examples:](#take-home-code-challenge-examples)
   - [Whiteboarding](#whiteboarding)
     - [How to Beat the Whiteboard](#how-to-beat-the-whiteboard)
-  - [Live Code Interview](#live-code-interview)
+    - [Whiteboard Challenge Example:](#whiteboard-challenge-example)
+  - [Live Code](#live-code)
     - [How to beat the Live Coding Interview](#how-to-beat-the-live-coding-interview)
+    - [Live Code Interview Examples:](#live-code-interview-examples)
   - [Resources](#resources)
 
 ## Who am I?
@@ -56,67 +62,104 @@ By the end of this workshop you as Software Engineers should:
 
 
 ## Lets Talk Turkey
-Some of the most common questions I am asked by students and Junior Engineers:
-1. What does the Interview process look like?
+Two questions I am normally asked by students and Junior Engineers are:
+1. What does the interview process look like for a software engineering or development position?
    - 1st Stage: Phone Behavioral Interview and Technical Questions
    - 2nd Stage: Remote Coding Interview or Assignment
    - 3rd Stage: Onsite or Remote Interview
      - With Possible: Whiteboarding and or Live Coding Challenge
 2. What kind of questions are asked during a technical interview?
-   - there are 5 types of technical interviews:
+   - There are 5 types of challenges you can expect during a technical interview process:
      - Behavioral
      - Technical Questions
-     - Code Challenge
+     - Take Home Code Challenge
      - Whiteboarding
-     - Live Coding Interview
+     - Live Coding
 
 ## Behavioral Interview
-Whereas behavioral interview are pretty standard in all job interviews they are especially important when it comes to Software Engineering and Development. There is a huge misconception that all Engineers and Developers like to code all night long in their parents' dark basement while surfacing the dark web.
+Whereas behavioral interview are pretty standard in all job interviews they are especially important when it comes to Software Engineering and Development positions. There is a huge misconception that all Engineers and Developers like to code all night long in their parents' dark basement while surfacing the dark web while ignoring the outside world.
 
-Ok.. Well in some cases that might be true but as an Engineer or Developer in the workforce, you will be expected to work with a team. Sometimes that team will consist of other Engineers and developers or it might be non-technical people such as a Project Manager or even the company's CEO.
+Ok.. Well in some cases that might be true but as an Engineer or Developer in the workforce, you will be expected to work with a team. Sometimes that team will consist of other Engineers and Developers or it might be non-technical people such as a Project Manager or even the company's CEO.
 
 ### Importance of Behavioral Interviews
-1. Gives the team a chance to see if they could stand working with you for 30-40 hours a week?
-   - It also gives you the same opportunity
+1. Gives the team a chance to see if they can stand working with you for 30-40 hours a week?
+   - It also gives you the same opportunity.
 2. Give the interviewer a better opportunity to understand the details of your work experience and how you work.
 
 ### How to beat the Behavioral Interview
 1. Be honest yourself!
    - Just as much as the interviewer is interviewing you, you are interviewing them.
-     - You do not want to work for a company or team that you can not get along with.
+     - Answer questions truthfully; You do not want to work for a company or team that you can not get along with.
 2. Utilize the S.T.A.R. Method:
    - **S**ituation: Describe the `situation` by providing relevant and necessary details.
-   - **T**ask: Explain the `task` you were responsible for in that accomplishing.
-   - **A**ction: Explain what `actions` you took to complete the task.
+   - **T**ask: Explain the `task` you were responsible for accomplishing.
+   - **A**ction: Explain what `actions` you took to accomplish the task.
    - **R**esult: Outline the `result` of your efforts and highlight the positive effects it had on the situation.
+
+### Behavioral Interview Question Examples:
+- Tell me about a time when you took ownership of a project. Why did you do this? What was the result of you taking the challenge? What could have happened if you did not take ownership?
+- Describe a situation in which you have experienced a significant project change that you weren’t expecting. What was it? How did that impact you, and how did you adapt to this change? How did you remain productive through the project?
+- Give me an example of a time you had to take a creative and unusual approach to solve a coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
 ## Technical Questions
 Technical questions are normally asked at multiple points of the interviewing process. But overall I would expect them during the initial phone screening and second-round interview. The purpose of this stage is to get a benchmark on your current skill level in regards to software engineering theory rather than practicality.
 
-the types of questions to expect are:
-- Algorithm
+The interviewer will ask questions on subjects such as:
+- Algorithms
 - Data Structures
 - Language Fundamentals
 - API Basics
+- Front and Backend Concepts
+
+### Importance of Technical Questions
+- Assess the extent of your technical knowledge.
+- Show how effectively you are able communicate said knowledge.
+- Gives a in-depth look into how you are under pressure.
 
 ### How to Ace the Technical Questions
-- Anchor your thinking process and your conclusions along the way
-- Repeat the question to the interviewer to be sure you understand what it is they are asking
+- Before answering the question, repeat the question to be sure you understand what it is they are asking.
 - Ask for clarification if it is a cryptic question.
-- Be honest and say I do not know, if you don’t try and ask questions that can lead you to a possible solution.
+- Anchor your thinking process and your conclusions along the way.
+- Be honest and say I do not know; if you don’t try and ask questions that can lead you to a possible solution.
+- Study:
+  - [Scrimba: The Working Developer's Guide To Algorithms](https://scrimba.com/course/galgorithmsguide)
 
+### Technical Question Examples:
+- General:
+  - What is NaN?
+  - What is a Data Type?
+  - What is OOP Explain the concept?
+  - What is encapsulation?
+- Front End:
+  - Are you familiar with styling SVG?
+  - What's the difference between inline and inline-block?
+  - Explain how `this` works in JavaScript?
+  - What is the difference between a `Function Declaration` and a `Function Expression`?
+- Back End:
+  - What is Node.js? Where can you use it?
+  - What's your favorite HTTP framework and why?
+  - Is Django an MVC Framework?
+  - Is Express an MVC Framework?
+  - What are the main differences between a NoSQL and SQL database?
 
-## Code Challenge
-`Code Challenges` are the most common things to expect from a during the interview process for a Software Engineer or Developer. they will consist of a technical problem that the company will send you to complete, normally on your own within a specific deadline.
+## Take Home Code Challenge
+`Take Home Code Challenges` are the most common things to expect from a during the interview process for a Software Engineer or Developer. they will consist of a technical problem that the company will send you to complete, normally on your own within a specific deadline.
 
-### How to beat the Code Challenge
-- Best way to beat a code challenge is to do code challenges
+### How to beat the Home Code Challenge
+- Best way to beat a take home code challenge is to do code challenges
   - Sites like the following are going to be your new best friend:
     - [CodeWars](https://www.codewars.com/)
     - [LeetCode](https://leetcode.com/)
     - [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
     - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
 - If you can't figure out the challenge pseudo-code the problem and take notes on how you would go about researching and solving the challenge.
+- Great Resource for beating the take-home challenges:
+  - [FreeCodeCamp: The Essential Guide to Take-home Coding Challenges
+](https://www.freecodecamp.org/news/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7/)
+
+### Take Home Code Challenge Examples:
+- Build a responsive clone of Pinterest or Medium and deploy it on Netlify or GitHub Pages.
+- Select and complete a challenge from this list [ Asymmetrik: Programming Challenges](https://asymmetrik.com/programming-challenges/).
 
 ## Whiteboarding
 The goal of a `whiteboard` challenge is for you to convey how you think and reason your way through a challenging problem.
@@ -138,7 +181,10 @@ They will ask you a challenging question and then ask you to write out how you w
 
 **Fun Fact:** Whiteboard challenges originated from a time before laptops when it was hard to have an interviewee code on an actual computer. Old habits die hard, and this is one of them.
 
-## Live Code Interview
+### Whiteboard Challenge Example:
+- New York City has the highest population of any city in the U.S., with 8,550,405 people. Bonanza, Utah has the smallest population with only 1 person living in it. How could you roughly calculate the population of the United States?
+
+## Live Code
 By far considered one of the toughest stages of the interviewing process is the `Live Coding` Interview. At this stage in the game, you have normally completed a `behavioral interview`, answered `technical questions`, and possibly done a `whiteboarding challenge`.
 
 Interviewers will either provide you with a or have you open a blank IDE and code out a solution right there in front of them. Scary right?!
@@ -165,6 +211,11 @@ What they are looking to see is:
     - Make it Pretty
     - Make it Fast
 
+### Live Code Interview Examples:
+- Complete one of the following challenges:
+  - [CodeWars: Single Word Pig Latin](https://www.codewars.com/kata/558878ab7591c911a4000007/train/javascript)
+  - Fix the sidebar in this [CodePen](https://codepen.io/chriscoyier/pen/ClGcF)
+  - Implement this [mock](https://drive.google.com/file/d/1Xvz_cah732YDF0k4jRYhYB_TYiEWsrTQ/view) of an image slider in you IDE and push your code to GitHub. Please provide us a link to your repository when completed.
 
 ## Resources
 <details>
