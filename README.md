@@ -66,11 +66,11 @@ Some of the most common questions I am asked by students and Junior Engineers:
      - With Possible: Whiteboarding and or Live Coding Challenge
 3. What kind of questions are asked during a technical interview?
    - There are 5 types of technical interviews:
-     1. Behavioral
-     2. Technical Questions
-     3. Code Challenge
-     4. Whiteboarding
-     5. Live Coding Interview
+     - Behavioral
+     - Technical Questions
+     - Code Challenge
+     - Whiteboarding
+     - Live Coding Interview
 
 ## Technical Questions
 Technical question are normally asked at multiple points of the interviewing process. But overall I would expect them during the initial phone screening and second round interview. The purpose of this stage is to get a benchmark on your current skill level in regards to software engineering theory rather that practicality.
