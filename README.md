@@ -8,7 +8,7 @@ So you are probably like, "Well duh Roger! I am expecting you to make me ready f
 ## Objectives
 By the end of this workshop you as Software Engineers should:
 1. Understand where technical interviews fit within the interview process for a Software Engineer and or Developer role.
-2. Be conformable discussing and performing technical interview best practices.
+2. Be comfortable discussing and performing technical interview best practices.
 
 ## Table of Content
 - [Technical Interview Workshop](#technical-interview-workshop)
