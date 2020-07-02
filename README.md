@@ -56,7 +56,7 @@ By the end of this workshop you as Software Engineers should:
 ## Lets Talk Turkey
 Some of the most common questions I am asked by students and Junior Engineers:
 1. What does the Interview process look like?
-   - 1st Stage: Phone Behavioral Screening and Technical Questions
+   - 1st Stage: Phone Behavioral Interview and Technical Questions
    - 2nd Stage: Remote Coding Interview or Assignment
    - 3rd Stage: Onsite or Remote Interview
      - With Possible: Whiteboarding and or Live Coding Challenge
@@ -69,7 +69,7 @@ Some of the most common questions I am asked by students and Junior Engineers:
      - Live Coding Interview
 
 ## Behavioral Interview
-Whereas behavioral challenges are pretty standard in all job interviews they are especially important when it comes to Software Engineering and Develop roles. There is a huge misconception that all Engineers and Developers like to code all night long in their parents' dark basement while surfacing the dark web.
+Whereas behavioral interview are pretty standard in all job interviews they are especially important when it comes to Software Engineering and Development. There is a huge misconception that all Engineers and Developers like to code all night long in their parents' dark basement while surfacing the dark web.
 
 Ok.. Well in some cases that might be true but as an Engineer or Developer in the workforce, you will be expected to work with a team. Sometimes that team will consist of other Engineers and developers or it might be non-technical people such as a Project Manager or even the company's CEO.
 
@@ -100,9 +100,8 @@ the types of questions to expect are:
 ### How to Ace the Technical Questions
 - Anchor your thinking process and your conclusions along the way
 - Repeat the question to the interviewer to be sure you understand what it is they are asking
-- Ask for clarification if it is a cryptic question
-- Ask questions that can lead you to a possible solution
-- Be honest and say I do not know
+- Ask for clarification if it is a cryptic question.
+- Be honest and say I do not know, if you don’t try and ask questions that can lead you to a possible solution.
 
 
 ## Code Challenge
@@ -115,14 +114,14 @@ the types of questions to expect are:
     - [LeetCode](https://leetcode.com/)
     - [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
     - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
-- If you can't figure out the challenge dope in as much pseudo-code and you can and notes on how you would go about researching the challenge you were given.
+- If you can't figure out the challenge pseudo-code the problem and take notes on how you would go about researching and solving the challenge.
 
 ## Whiteboarding
-the goal of a `whiteboard` challenge is for you to convey how you think and reason your way through a challenging problem.
+The goal of a `whiteboard` challenge is for you to convey how you think and reason your way through a challenging problem.
 
-Traditional this challenge is given to you in person and is performed in front of either the interviewer and or an interviewing panel.
+Traditionally this challenge is given to you in person and is performed in front of either an interviewer or an interviewing panel.
 
-they will ask you a challenging question and then ask you to write out how you would approach solving the issue.
+They will ask you a challenging question and then ask you to write out how you would approach solving the issue.
 
 ### How to Beat the Whiteboard
 - TALK OUT LOUD!
@@ -135,13 +134,12 @@ they will ask you a challenging question and then ask you to write out how you w
   - Normally Interviewers ask you to solve a problem and purposefully do not give you enough details to solve it so that you will ask questions.
 - Remember the point of the challenge is not to solve for the solution but to show them your logical thinking and problem-solving skills.
 
-
 **Fun Fact:** Whiteboard challenges originated from a time before laptops when it was hard to have an interviewee code on an actual computer. Old habits die hard, and this is one of them.
 
 ## Live Code Interview
-By far considered one of the toughest stages of the interviewing process is the `Live Coding` Interview. At this stage in the game, you have normally had a `behavioral interview`, been asked `technical questions`, and possibly done a `whiteboarding challenge`.
+By far considered one of the toughest stages of the interviewing process is the `Live Coding` Interview. At this stage in the game, you have normally completed a `behavioral interview`, answered `technical questions`, and possibly done a `whiteboarding challenge`.
 
-During this stage, interviewers will either provide you or have you open a blank IDE and code out a solution right there in front of them. Scary right?!
+Interviewers will either provide you with a or have you open a blank IDE and code out a solution right there in front of them. Scary right?!
 
 One main there to realize here is that similar to the `whiteboarding challenge` interviews are not expecting you to finish the challenge in the interview.
 What they are looking to see is:
@@ -154,12 +152,12 @@ What they are looking to see is:
   - This is where those coding challenge sites I shared will also come in handy.
     - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
 - Don't jump without asking where to land
-  - the worse thing you can do is jump right in and start coding once the interviewer has given you the problem to solve and tells you to go.
+  - The worse thing you can do is jump right in and start coding once the interviewer has given you the problem to solve and tells you to go.
   - Normally they have intentionally not given you enough information to solve the problem.
-    - they want to see if you are going to BS your way through or ask a question when needed.
+    - They want to see if you are going to BS your way through; or ask a question when needed.
 - Just make the code run!
   - Do not worry about writing super elegant code, just get a workable solution.
-  - Once you have a workable solution then and only then worry about elegancy.
+  - Once you have a workable solution then and only then worry about elegance.
   - Remember:
     - Make it Work
     - Make it Pretty
