@@ -10,8 +10,10 @@ By the end of this workshop you as Software Engineers should:
 1. Understand where technical interviews fit within the interview process for a Software Engineer and or Developer role.
 2. Be conformable discussing and performing technical interview best practices.
 
+## Table of Content
 - [Technical Interview Workshop](#technical-interview-workshop)
   - [Objectives](#objectives)
+  - [Table of Content](#table-of-content)
   - [Who am I?](#who-am-i)
   - [Lets Talk Turkey](#lets-talk-turkey)
   - [Technical Questions](#technical-questions)
@@ -35,13 +37,13 @@ By the end of this workshop you as Software Engineers should:
 **Roger Campbell II**
 - I am a:
   - General Assembly Alumni
-  - Software Engineer:
+  - Software Engineer for:
     - [Code Differently](https://www.codedifferently.com/home)
     - [GemStack Solutions](https://www.gemstack.io/)
-  - Software Engineering Instructor:
+  - Software Engineering Instructor at:
     - [General Assembly](https://generalassemb.ly/instructors/roger-campbell-ii/22748)
     - [Code Differently](https://www.codedifferently.com/home)
-  - Principal Consultant:
+  - Principal Consultant of:
     - [GemStack Solutions](https://www.gemstack.io/)
 - Have been in the tech industry for over 5 years and a Engineer for 2 years.
 - Facilitated the growth and advancement of over 100 Software Engineers professionals.
