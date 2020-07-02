@@ -29,21 +29,25 @@ By the end of this workshop you as Software Engineers should:
 
 ## Who am I?
 
-
+**Roger Campbell II**
 <img src="https://rogercampbell.io/static/avatar-dbfb29144313b3185fc69852fb862e13.png" height=300>
 
-
-Roger Campbell II
 - I am a:
   - General Assembly Alumni
   - Software Engineer:
-    - Code Differently
-  - Instructor:
-    - General Assembly
-    - Code Differently
+    - [Code Differently](https://www.codedifferently.com/home)
+    - [GemStack Solutions](https://www.gemstack.io/)
+  - Software Engineering Instructor:
+    - [General Assembly](https://generalassemb.ly/instructors/roger-campbell-ii/22748)
+    - [Code Differently](https://www.codedifferently.com/home)
   - Principal Consultant:
-    - GemStack Solutions
-- I have been in the tech industry for over 5 years and a Engineer for 2 years.
+    - [GemStack Solutions](https://www.gemstack.io/)
+- Have been in the tech industry for over 5 years and a Engineer for 2 years.
+- Facilitated the growth and advancement of over 100 Software Engineers professionals. 
+- Contact Info:
+  - [LinkedIn](https://www.linkedin.com/in/rc1336/)
+  - [Personal Site](https://rogercampbell.io/)
+
 
 ## Lets Talk Turkey
 Some of the most common questions I am asked by students and Junior Engineers:
