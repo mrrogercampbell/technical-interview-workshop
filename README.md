@@ -30,6 +30,7 @@ By the end of this workshop you as Software Engineers should:
 ## Who am I?
 
 **Roger Campbell II**
+
 <img src="https://rogercampbell.io/static/avatar-dbfb29144313b3185fc69852fb862e13.png" height=300>
 
 - I am a:
@@ -43,10 +44,11 @@ By the end of this workshop you as Software Engineers should:
   - Principal Consultant:
     - [GemStack Solutions](https://www.gemstack.io/)
 - Have been in the tech industry for over 5 years and a Engineer for 2 years.
-- Facilitated the growth and advancement of over 100 Software Engineers professionals. 
+- Facilitated the growth and advancement of over 100 Software Engineers professionals.
 - Contact Info:
   - [LinkedIn](https://www.linkedin.com/in/rc1336/)
   - [Personal Site](https://rogercampbell.io/)
+  - [Github](https://github.com/rc1336)
 
 
 ## Lets Talk Turkey
