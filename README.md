@@ -18,6 +18,9 @@ So you are probably like, "Well duh Roger! I am expecting you to make me ready f
 
 ## Who am I?
 ![Roger Campbell II](https://avatars3.githubusercontent.com/u/43559077?s=460&u=540d04f987646242d4824ab74a01d7407f5dd8e4&v=4)
+![Roger Campbell II](https://rogercampbell.io/static/avatar-dbfb29144313b3185fc69852fb862e13.png)
+
+Roger Campbell II
 
 
 ## Whiteboarding
