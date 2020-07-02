@@ -226,4 +226,5 @@ What they are looking to see is:
   3. <a href="https://medium.com/@trycatch/how-to-pass-a-live-coding-interview-3-tips-from-our-community-2e382971cde5">How To Pass A Live Coding Interview: 3 Tips From Our Community</a>
   4. <a href="https://learntocodewith.me/posts/technical-interview/">the Ultimate Guide to Acing Your Technical Interview</a>
   5. <a href="https://startupsventurecapital.com/best-tips-to-prepare-for-the-software-engineering-interview-1c7adeb4bc05">Best Tips To Prepare For (and Ace) Your Next Software Engineering Interview</a>
+  6. <a href="https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/">45 behavioral questions to use during non-technical interview with developers</a>
 </details>
