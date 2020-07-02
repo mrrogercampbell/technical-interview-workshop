@@ -14,18 +14,17 @@ By the end of this workshop you as Software Engineers should:
   - [Objectives](#objectives)
   - [Who am I?](#who-am-i)
   - [Lets Talk Turkey](#lets-talk-turkey)
-  - [Whiteboarding](#whiteboarding)
-    - [How to Beat The Whiteboard](#how-to-beat-the-whiteboard)
+  - [Technical Questions](#technical-questions)
+    - [How to Ace The Technical Questions](#how-to-ace-the-technical-questions)
   - [Behavioral Interview](#behavioral-interview)
     - [Importance of Behavioral Interviews](#importance-of-behavioral-interviews)
     - [How to beat the Behavioral Interview](#how-to-beat-the-behavioral-interview)
   - [Code Challenge](#code-challenge)
     - [How to beat the Code Challenge](#how-to-beat-the-code-challenge)
+  - [Whiteboarding](#whiteboarding)
+    - [How to Beat The Whiteboard](#how-to-beat-the-whiteboard)
   - [Live Code Interview](#live-code-interview)
     - [How to beat the Live Coding Interview](#how-to-beat-the-live-coding-interview)
-  - [Technical Questions](#technical-questions)
-    - [Front End](#front-end)
-    - [Back End](#back-end)
   - [Resources](#resources)
 
 ## Who am I?
@@ -50,37 +49,35 @@ Some of the most common questions I am asked by students and Junior Engineers:
    - Technical interview give companies the opportunity to:
      - See how you think
      - Something else
-2. What kind of questions are asked during a technical interview?
+2. What does the Interview process look like?
+   - 1st Stage: Phone Behavioral Screening and Technical Questions
+   - 2nd Stage: Remote Coding Interview or Assignment
+   - 3rd Stage: Onsite or Remote Interview
+     - With Possible: Whiteboarding and or Live Coding Challenge
+3. What kind of questions are asked during a technical interview?
    - There are 5 types of technical interviews:
-     1. Whiteboarding
-     2. Behavioral
+     1. Behavioral
+     2. Technical Questions
      3. Code Challenge
-     4. Live Coding Interview
-     5. Technical Questions
-        - Front End
-        - Back End
+     4. Whiteboarding
+     5. Live Coding Interview
 
+## Technical Questions
+Technical question are normally asked at multiple points of the interviewing process. But overall I would expect them during the initial phone screening and second round interview. The purpose of this stage is to get a benchmark on your current skill level in regards to software engineering theory rather that practicality.
 
-## Whiteboarding
-The goal of a `whiteboard` challenge is for you to convey how you think and reason your way through a challenging problem.
+The types of questions to expect are:
+- Algorithm
+- Data Structures
+- Language Fundamentals
+- API Basics
 
-Traditional this challenge is given to you in person and is performed in front of either the interviewer and or an interviewing panel.
+### How to Ace The Technical Questions
+- Anchor your thinking process and your conclusions along the way
+- Repeat the question to the interviewer to be sure you understand what it is they are asking
+- Ask for clarification if it is a cryptic question
+- Ask questions that can lead you to a possible solution
+- Be honest and say I do not know
 
-They will ask you a challenging question and then ask you to write out how you would approach solving the issue.
-
-### How to Beat The Whiteboard
-- TALK OUT LOUD!
-  - One of the biggest thing interviewers are trying to see with this type of challenge is how do you reason.
-  - It is extremely important to say anything and everything you are thinking out loud.
-- Write out `pseudo code`
-  - Pseudo code show that you are logically working towards a solutions by dissecting the problem.
-- When in doubt... Ask a questions
-  - One common pitfall for Juniors is that they think they are supposed to know everything; `you will never know more than you don't know`
-  - Normally Interviewers ask you a to solve a problem and purposefully do not give you enough details to solve it so that you will ask questions.
-- Remember the point of the challenge is not to solve the solution but to show them you are a capable thinking.
-
-
-**Fun Fact:** Whiteboard challenges originated from a time before laptops, when it was hard to to have an interviewee code on an actual computer. Old habits die hard, and this is one of them.
 
 ## Behavioral Interview
 Whereas a behavioral challenges are pretty standard in all job interviews they are especially important when it comes to Software Engineering and Develop roles. There is a huge misconception that all Engineers and Developers like to code all night long in their parents dark basement while surfacing the dark web.
@@ -114,6 +111,27 @@ Ok.. Well in some cases that might be true but as a Engineer or Developer in the
     - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
 - If you cant figure out the challenge dope in as much pseudo code and you can and notes on how you would go about researching the challenge you were given.
 
+## Whiteboarding
+The goal of a `whiteboard` challenge is for you to convey how you think and reason your way through a challenging problem.
+
+Traditional this challenge is given to you in person and is performed in front of either the interviewer and or an interviewing panel.
+
+They will ask you a challenging question and then ask you to write out how you would approach solving the issue.
+
+### How to Beat The Whiteboard
+- TALK OUT LOUD!
+  - One of the biggest thing interviewers are trying to see with this type of challenge is how do you reason.
+  - It is extremely important to say anything and everything you are thinking out loud.
+- Write out `pseudo code`
+  - Pseudo code show that you are logically working towards a solutions by dissecting the problem.
+- When in doubt... Ask a questions
+  - One common pitfall for Juniors is that they think they are supposed to know everything; `you will never know more than you don't know`
+  - Normally Interviewers ask you a to solve a problem and purposefully do not give you enough details to solve it so that you will ask questions.
+- Remember the point of the challenge is not to solve the solution but to show them you are a capable thinking.
+
+
+**Fun Fact:** Whiteboard challenges originated from a time before laptops, when it was hard to to have an interviewee code on an actual computer. Old habits die hard, and this is one of them.
+
 ## Live Code Interview
 By far considered one of the toughest stages of the interviewing process is the `Live Coding` Interview. At this stage in the game you have normally had a `behavioral interview`, been asked `technical questions`, and possibly done a `whiteboarding challenge`.
 
@@ -141,11 +159,6 @@ What they are looking to see is:
     - Make it Pretty
     - Make it Fast
 
-## Technical Questions
-
-### Front End
-
-### Back End
 
 ## Resources
 <details>
@@ -153,5 +166,7 @@ What they are looking to see is:
 
   1. <a href="https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629">How to Use The STAR Interview Response</a>
   2. <a href="https://www.byte-by-byte.com/six-software-engineering-interview-questions/#:~:text=Whiteboard%20Interview%20Questions,an%20IDE%20or%20a%20compiler">How to Use The STAR Interview Response</a>
-  2.
+  3. <a href="https://medium.com/@trycatch/how-to-pass-a-live-coding-interview-3-tips-from-our-community-2e382971cde5">How To Pass A Live Coding Interview: 3 Tips From Our Community</a>
+  4. <a href="https://learntocodewith.me/posts/technical-interview/">The Ultimate Guide to Acing Your Technical Interview</a>
+  5. <a href="https://startupsventurecapital.com/best-tips-to-prepare-for-the-software-engineering-interview-1c7adeb4bc05">Best Tips To Prepare For (and Ace) Your Next Software Engineering Interview</a>
 </details>
