@@ -20,7 +20,9 @@ By the end of this workshop you as Software Engineers should:
     - [Importance of Behavioral Interviews](#importance-of-behavioral-interviews)
     - [How to beat the Behavioral Interview](#how-to-beat-the-behavioral-interview)
   - [Code Challenge](#code-challenge)
-  - [Live Code Session](#live-code-session)
+    - [How to beat the Code Challenge](#how-to-beat-the-code-challenge)
+  - [Live Code Interview](#live-code-interview)
+    - [How to beat the Live Coding Interview](#how-to-beat-the-live-coding-interview)
   - [Technical Questions](#technical-questions)
     - [Front End](#front-end)
     - [Back End](#back-end)
@@ -53,7 +55,7 @@ Some of the most common questions I am asked by students and Junior Engineers:
      1. Whiteboarding
      2. Behavioral
      3. Code Challenge
-     4. Live Coding Session
+     4. Live Coding Interview
      5. Technical Questions
         - Front End
         - Back End
@@ -101,8 +103,43 @@ Ok.. Well in some cases that might be true but as a Engineer or Developer in the
    - **R**esult: Outline the `result` of your efforts and highlight the positive effects it had for on the situation.
 
 ## Code Challenge
+`Code Challenges` are the most common things to expect from a during the interview process for a Software Engineer or Developer. They will consist of a technical problem that the company will send you to complete, normally on your own within a specify deadline.
 
-## Live Code Session
+### How to beat the Code Challenge
+- Best way to beat a code challenge is to do code challenges
+  - Sites like the following are going to be your new best friend:
+    - [CodeWars](https://www.codewars.com/)
+    - [LeetCode](https://leetcode.com/)
+    - [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+    - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
+- If you cant figure out the challenge dope in as much pseudo code and you can and notes on how you would go about researching the challenge you were given.
+
+## Live Code Interview
+By far considered one of the toughest stages of the interviewing process is the `Live Coding` Interview. At this stage in the game you have normally had a `behavioral interview`, been asked `technical questions`, and possibly done a `whiteboarding challenge`.
+
+During this stage interviewers will either provide you or have you open a blank IDE and code out a solutions right there in front of them. Scary right?!
+
+One main there to realize here is that similar to the `whiteboarding challenge` interviews are not expecting you to finish the challenge in the interview.
+What they are looking to see is:
+- How you structure your code
+- How you think through a problem
+- And basic understanding of the language they let you code in
+
+### How to beat the Live Coding Interview
+- Practice, practice, oh and practice
+  - This is where those coding challenge sites I shared will also come in handy.
+    - [FreeCodeCamp: 10 Most Popular Coding Challenge Sites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
+- Don't jump without asking where to land
+  - The worse thing you can do is jump right in and start coding once the interviewer has given you the problem to solve and tells you to go.
+  - Normally they have intentionally not given you enough information to solve the problem.
+    - They want to see if you are going to BS your way through or ask a question when needed.
+- Just make the code run!
+  - Do not worry about writing super elegant code, just get a workable solution.
+  - Once you have a workable solution then and only then worry about elegancy.
+  - Remember:
+    - Make it Work
+    - Make it Pretty
+    - Make it Fast
 
 ## Technical Questions
 
