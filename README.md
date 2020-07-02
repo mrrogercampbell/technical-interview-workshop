@@ -30,7 +30,7 @@ By the end of this workshop you as Software Engineers should:
 ## Who am I?
 
 
-<img src="https://rogercampbell.io/static/avatar-dbfb29144313b3185fc69852fb862e13.png" height=400>
+<img src="https://rogercampbell.io/static/avatar-dbfb29144313b3185fc69852fb862e13.png" height=300>
 
 
 Roger Campbell II
