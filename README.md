@@ -230,10 +230,11 @@ What they are looking to see is:
   5. <a href="https://startupsventurecapital.com/best-tips-to-prepare-for-the-software-engineering-interview-1c7adeb4bc05">Best Tips To Prepare For (and Ace) Your Next Software Engineering Interview</a>
   6. <a href="https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/">45 behavioral questions to use during non-technical interview with developers</a>
   7. <a href="https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/">7 React Projects You Should Build in 2021</a>
-<a href="https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/">Build a Shopping Cart with React and TypeScript</a>
+  8. <a href="https://www.freecodecamp.org/news/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7/">The Essential Guide to Take-home Coding Challenges</a>
   <h1>Misc:</h1>
   <ul>
   <li><a href="https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/">7 React Projects You Should Build in 2021</a></li>
+  <li><a href="https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/">Build a Shopping Cart with React and TypeScript</a></li>
   <li><a href="https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/">Build a Shopping Cart with React and TypeScript</a></li>
   <li><a href="https://www.freecodecamp.org/news/get-started-coding-with-java/">Get Started Coding with Java!</a></li>
   <li><a href="https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/">Postman API Tutorial – How to Use Postman to Test an API Full Course</a></li>
