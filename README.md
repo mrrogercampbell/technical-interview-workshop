@@ -264,6 +264,7 @@ What they are looking to see is:
   <li><a href="https://www.freecodecamp.org/news/react-and-googlesheets/">How to Turn Google Sheets into a REST API and Use it with a React Application</a></li>
   <li><a href="https://www.freecodecamp.org/news/vs-code-extensions-to-boost-your-development-productivity/">VS Code Extensions That’ll Boost Your Development Productivity</a></li>
   <li><a href="https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/">Learn TypeScript With This Crash Course</a></li>
+  <li><a href="https://www.freecodecamp.org/news/make-your-site-beautiful-using-web-design-principles/">How to Make Your Site Beautiful Using Web Design Principles</a></li>
   </ul>
 
 </details>
