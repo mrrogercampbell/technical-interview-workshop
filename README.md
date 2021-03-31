@@ -227,4 +227,40 @@ What they are looking to see is:
   4. <a href="https://learntocodewith.me/posts/technical-interview/">the Ultimate Guide to Acing Your Technical Interview</a>
   5. <a href="https://startupsventurecapital.com/best-tips-to-prepare-for-the-software-engineering-interview-1c7adeb4bc05">Best Tips To Prepare For (and Ace) Your Next Software Engineering Interview</a>
   6. <a href="https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/">45 behavioral questions to use during non-technical interview with developers</a>
+  7. <a href="https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/">7 React Projects You Should Build in 2021</a>
+<a href="https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/">Build a Shopping Cart with React and TypeScript</a>
+  <h1>Misc:</h1>
+  <ul>
+  <li><a href="https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/">7 React Projects You Should Build in 2021</a></li>
+  <li><a href="https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/">Build a Shopping Cart with React and TypeScript</a></li>
+  <li><a href="https://www.freecodecamp.org/news/get-started-coding-with-java/">Get Started Coding with Java!</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/">Postman API Tutorial – How to Use Postman to Test an API Full Course</a></li>
+  <li><a href="https://www.freecodecamp.org/news/difference-between-a-website-and-a-web-application/">What is the Difference Between a Website and a Web Application?</a></li>
+  <li><a href="https://www.freecodecamp.org/news/scraping-ecommerce-website-with-python/">Web Scraping in Python – How to Scrape an eCommerce Website Using Beautiful Soup and Pandas</a></li>
+  <li><a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/">40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/">Learn the Flask Python Web Development Framework by Building an Ecommerce Platform</a></li>
+  <li><a href="https://www.freecodecamp.org/news/fetch-api-cheatsheet/">The Fetch API Cheatsheet: Nine of the Most Common API Requests</a></li>
+  <li><a href="https://www.freecodecamp.org/news/html-basics-for-beginners/">Learn HTML Basics for Beginners in Just 15 Minutes</a></li>
+  <li><a href="https://www.freecodecamp.org/news/intro-to-react-components/">Why You Should Use React Components Instead of HTML</a></li>
+  <li><a href="https://www.freecodecamp.org/news/react-budget-tracker-app/">Build a React Budget Tracker App – Learn React &amp; Context API with this Fun Project</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/">User Authentication in Node.js with Passport.js and JWT – Full 6-Hour Course</a></li>
+  <li><a href="https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/">Watch a Cornell University Database Course for Free</a></li>
+  <li><a href="https://www.freecodecamp.org/news/the-python-handbook/">The Python Handbook</a></li>
+  <li><a href="https://www.freecodecamp.org/news/how-to-solve-coding-problems/">How to Solve Coding Problems with a Simple Four Step Method</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/">Learn Flexbox with These 8 Most Common Use Cases</a></li>
+  <li><a href="https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/">How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/">AWS Training – Learn the Basics of Amazon Web Services</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/">Dynamic Programming for Beginners – How to Solve Coding Challenges with Memoization and Tabulation</a></li>
+  <li><a href="https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/">JavaScript Object Destructuring, Spread Syntax, and the Rest Parameter – A Practical Guide</a></li>
+  <li><a href="https://www.freecodecamp.org/news/async-await-in-javascript/">How to Use Async/Await in JavaScript with Example JS Code</a></li>
+  <li><a href="https://www.freecodecamp.org/news/get-started-with-graphql-and-nodejs/">How to Get Started with GraphQL and Node.js</a></li>
+  <li><a href="https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/">What is Git? A Beginner’s Guide to Git Version Control</a></li>
+  <li><a href="https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/">5 Coding Projects You Should Include in Your Front End Portfolio</a></li>
+  <li><a href="https://www.freecodecamp.org/news/best-file-structure-for-react-components/">The Best File Structure for Your React Components</a></li>
+  <li><a href="https://www.freecodecamp.org/news/fetch-api-cheatsheet/">The Fetch API Cheatsheet: Nine of the Most Common API Requests</a></li>
+  <li><a href="https://www.freecodecamp.org/news/react-and-googlesheets/">How to Turn Google Sheets into a REST API and Use it with a React Application</a></li>
+  <li><a href="https://www.freecodecamp.org/news/vs-code-extensions-to-boost-your-development-productivity/">VS Code Extensions That’ll Boost Your Development Productivity</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/">Learn TypeScript With This Crash Course</a></li>
+  </ul>
+
 </details>
