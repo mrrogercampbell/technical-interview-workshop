@@ -1,4 +1,4 @@
-<img src="https://github.com/rc1336/technical-interview-workshop/blob/master/images/GemStack%20Solutions%20Final%20JPEG%20CMYK.jpg?raw=true" alt="gemstack-logo" height=500>
+<img src="https://github.com/mrrogercampbell/technical-interview-workshop/blob/master/images/Gemstack_logo-primary_horizontal.png?raw=true" alt="gemstack-logo" height=500>
 
 # Technical Interview Workshop
 Let's get one thing straight: **Everyone eats, sleeps, and farts just like you!**
