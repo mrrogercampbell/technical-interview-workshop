@@ -47,16 +47,12 @@ By the end of this workshop you as Software Engineers should:
 **Roger Campbell II**
 - I am a:
   - General Assembly Alumni
-  - Software Engineer for:
-    - [Code Differently](https://www.codedifferently.com/home)
+  - Founder and Principal Consultant of:
     - [GemStack Solutions](https://www.gemstack.io/)
   - Software Engineering Instructor at:
     - [General Assembly](https://generalassemb.ly/instructors/roger-campbell-ii/22748)
-    - [Code Differently](https://www.codedifferently.com/home)
-  - Principal Consultant of:
-    - [GemStack Solutions](https://www.gemstack.io/)
-- Have been in the tech industry for over 5 years and a Engineer for 2 years.
-- Facilitated the growth and advancement of over 100 Software Engineers professionals.
+- Have been in the tech industry for 10 years and a Software Engineer for 5 years.
+- Facilitated the growth and advancement of over 1000 Software Engineers professionals.
 - Contact Info:
   - [LinkedIn](https://www.linkedin.com/in/rc1336/)
   - [Personal Site](https://rogercampbell.io/)
