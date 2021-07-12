@@ -52,7 +52,7 @@ By the end of this workshop you as Software Engineers should:
   - Software Engineering Instructor at:
     - [General Assembly](https://generalassemb.ly/instructors/roger-campbell-ii/22748)
 - Have been in the tech industry for 10 years and a Software Engineer for 5 years.
-- Facilitated the growth and advancement of over 1000 Software Engineers professionals.
+- Facilitated the growth and advancement of over 500 Software Engineers professionals.
 - Contact Info:
   - [LinkedIn](https://www.linkedin.com/in/rc1336/)
   - [Personal Site](https://rogercampbell.io/)
